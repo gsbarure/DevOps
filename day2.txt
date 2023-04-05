@@ -1,0 +1,7 @@
+Lab for GIT:
+CREATED Devops repo in GIT
+Cloned in Local machine
+Created file in Devops 
+file name"day2.txt"
+need to add,commit,push
+
